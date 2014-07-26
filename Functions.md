@@ -1,6 +1,8 @@
-# *functions.d/*
+All files directly contained in *<module-dir>/functions.d/* and ending with `.pgsql` are regarded as function defintions for the module.
 
-All contained files ending with `.pgsql` are regarded as function file of the module. A function file gives a definition which will be converted to a FUNCTION in PostgreSql. The part before the file ending is regarded as function name.
+More informations
+* <http://www.postgresql.org/docs/9.4/static/sql-createfunction.html>
+* <http://www.postgresql.org/docs/9.4/static/sql-alterfunction.html>
 
 All required options are marked with **bold** font weight.
 
