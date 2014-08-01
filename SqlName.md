@@ -1,0 +1,1 @@
+SqlNames defined a SQL identifier. The colon is a special symbol.
