@@ -1,4 +1,4 @@
-All files directly contained in *<module-dir>/functions.d/* and ending with `.pgsql` are regarded as function defintions for the module.
+All files directly contained in *<module-dir>/functions.d/* and ending with `.sql` are regarded as function defintions for the module.
 
 More informations
 * <http://www.postgresql.org/docs/9.4/static/sql-createfunction.html>
