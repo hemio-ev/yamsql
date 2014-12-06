@@ -2,6 +2,7 @@
 
 * [[Function]]
 * [[Table]]
+** [[Column]]
 
 ### Advanced SQL-Features
 * [[Domain]]
