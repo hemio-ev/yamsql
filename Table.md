@@ -3,6 +3,8 @@ All files directly contained in *<module-dir>/tables.d/* and ending with `.yamsq
 * <http://www.postgresql.org/docs/9.4/static/sql-createtable.html>
 * <http://www.postgresql.org/docs/9.4/static/sql-altertable.html>
 
+Structure
+
 *   **name**         ([[SqlName]]): table name
 *   **description**  ([[String]]): what this table is good for
 *   **columns**      (list of [[Column]]s): columns contained in this table
