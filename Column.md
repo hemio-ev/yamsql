@@ -1,6 +1,7 @@
 * **name**          ([[SqlName]]): 
-* **type**          ([[String]]): 
-* **description**   ([[String]]): 
+* **_type_**          ([[String]]): 
+* **_description_**   ([[String]]): 
+* template      ([[SqlName]]): 
 * default       ([[String]]):
 * null          ([[Bool]]):
 * references    ([[SqlName]]):
