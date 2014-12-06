@@ -1,7 +1,7 @@
-# Basic SQL-Features
+### Basic SQL-Features
 
 * [[Function]]
 * [[Table]]
 
-# Advanced SQL-Features
+### Advanced SQL-Features
 * [[Domain]]
