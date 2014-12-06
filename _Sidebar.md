@@ -5,3 +5,8 @@
 
 ### Advanced SQL-Features
 * [[Domain]]
+
+### Yamsql Input
+* [[Bool]]
+* [[String]]
+* [[SqlName]]
