@@ -14,7 +14,7 @@ All required options are marked with **bold** font weight.
 - *return_columns* (list of [[Parameter]]s): if the value of *return* is TABLE (case sensitive), this options defines the columns that are returned
 - *priv_execute* (list of [[SqlName]]s): Role that has the privilege to execute the function
 - *security_definer* ([[Bool]]): If true, the function is executed with the privileges of the owner! Owner has to be given, if this is true (not implemented yet!)
-- *owner* ([[String]]): owner of the function
+- *owner* ([[SqlName]]): owner of the function
 - *language* ([[String]]): language in which the body is written.
 - **body** ([[String]]): the code of the function (body)
 
