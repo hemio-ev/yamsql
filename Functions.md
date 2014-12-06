@@ -10,7 +10,7 @@ All required options are marked with **bold** font weight.
 - **description** ([[String]]): what the function is good for
 - **return** ([[String]]): return type of the function, the value *TABLE* is special (see return_table)
 - *parameters* (list of [[Variable]]s): parameters the function takes
-- *templates* (list of [[SqlName]]s): list of templates, used for this function (see [[FunctionTpl]])
+- *templates* (list of [[SqlName]]s): list of template names, from which this function derives definitions (see [[FunctionTpl]])
 - *return_columns* (list of [[Parameter]]s): if the value of *return* is TABLE (case sensitive), this options defines the columns that are returned
 - *priv_execute* (list of [[SqlName]]s): Role that has the privilege to execute the function
 - *security_definer* ([[Bool]]): If true, the function is executed with the privileges of the owner! Owner has to be given, if this is true (not implemented yet!)
