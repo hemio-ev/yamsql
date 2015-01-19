@@ -16,5 +16,6 @@ All required options are marked with **bold** font weight.
 - *security_definer* ([[Bool]]): If true, the function is executed with the privileges of the owner! Owner has to be given, if this is true (not implemented yet!)
 - *owner* ([[SqlName]]): owner of the function
 - *language* ([[String]]): language in which the body is written.
+- *variables* (list of [[Variable]]s)
 - **body** ([[String]]): the code of the function (body)
 
