@@ -1,0 +1,4 @@
+- **name** ([[SqlName]])
+- *description* ([[String]])
+- **variableType** ([[String]])
+- *variableDefault* ([[String]])
