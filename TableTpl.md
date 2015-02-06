@@ -1,7 +1,7 @@
 - **template**    ([[SqlName]])
 - **description** ([[String]])
 - *foreignKeys* (list of [[ForeignKey]]s)
-- *inherits*    (list of [[SqlName]s)
+- *inherits*    (list of [[SqlName]]s)
 - *columns*     (list of [[Column]]s)
 - *privSelect*  (list of [[SqlName]]s)
 - *privInsert*  (list of [[SqlName]]s)
