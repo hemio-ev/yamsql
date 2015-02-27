@@ -16,6 +16,7 @@
 * [[Bool]]
 * [[String]]
 * [[SqlName]]
+* [[SqlType]]
 
 ### Advanced Yamsql-Features
 * Templates
