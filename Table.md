@@ -8,12 +8,12 @@ Structure
 *   **name**         ([[SqlName]]): table name
 *   **description**  ([[String]]): what this table is good for
 *   **columns**      (list of [[Column]]s): columns contained in this table
-*   **primaryKey**   (list of [[SqlName]]): list of column names that define the primary key
-*   foreignKeys   (list of [[ForeignKey]]s): constains values via foreign keys
+*   **primary_key**   (list of [[SqlName]]): list of column names that define the primary key
+*   foreign_keys   (list of [[ForeignKey]]s): constains values via foreign keys
 *   checks        (list of [[Check]]s): validity checks applied to the table
 *   inherits      (list of [[SqlName]]s): 
-*   privSelect    (list of [[SqlName]]s): grant SELECT to given roles for this table
-*   privInsert    (list of [[SqlName]]s): grant INSERT
-*   privUpdate    (list of [[SqlName]]s): grant UPDATE
-*   privDelete    (list of [[SqlName]]s): grant DELETE
+*   priv_select    (list of [[SqlName]]s): grant SELECT to given roles for this table
+*   priv_insert    (list of [[SqlName]]s): grant INSERT
+*   priv_update    (list of [[SqlName]]s): grant UPDATE
+*   priv_delete    (list of [[SqlName]]s): grant DELETE
 *   templates     (list of [[SqlName]]s): (see [[TableTpl]])
