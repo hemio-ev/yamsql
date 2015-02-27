@@ -8,7 +8,7 @@ All required options are marked with **bold** font weight.
 
 - **name** ([[SqlName]]): function name
 - **description** ([[String]]): what the function is good for
-- **returns** ([[String]]): return type of the function, the value *TABLE* is special (see return_table)
+- **returns** ([[SqlType]]): return type of the function, the value *TABLE* is special (see return_table)
 - *parameters* (list of [[Variable]]s): parameters the function takes
 - *templates* (list of [[SqlName]]s): list of template names, from which this function derives definitions (see [[FunctionTpl]])
 - *returns_columns* (list of [[Parameter]]s): if the value of *return* is TABLE (case sensitive), this options defines the columns that are returned
