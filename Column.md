@@ -5,7 +5,7 @@
 * default       ([[String]]): default value (sql code)
 * null          ([[Bool]]): Sql _NULL_ is allowed as value (default _false_)
 * references    ([[SqlName]]): 
-* onRefDelete   ([[String]]): 
-* onRefUpdate   ([[String]]): 
+* on_ref_delete   ([[String]]): 
+* on_ref_update   ([[String]]): 
 * unique        ([[Bool]]): 
 * checks        (list of [[Check]]s): 
