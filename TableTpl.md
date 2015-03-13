@@ -3,6 +3,7 @@
 - *foreign_keys* (list of [[ForeignKey]]s)
 - *inherits*    (list of [[SqlName]]s)
 - *columns*     (list of [[Column]]s)
+- *checks*     (list of [[Check]]s)
 - *priv_select*  (list of [[SqlName]]s)
 - *priv_insert*  (list of [[SqlName]]s)
 - *priv_update*  (list of [[SqlName]]s)
