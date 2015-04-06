@@ -10,6 +10,8 @@
 * [[Check]]
 * [[Domain]]
 * [[ForeignKey]]
+* [[Sequence]]
+* [[Trigger]]
 * [[Type]]
 
 ### Yamsql Input
