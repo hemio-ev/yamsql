@@ -1,1 +1,1 @@
-Welcome to the yamsql wiki!
+README.md
