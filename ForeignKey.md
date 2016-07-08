@@ -1,6 +1,0 @@
-- **name** ([[SqlName]]): Just a name
-- **columns** (list of [SqlName]]s): Columns in this table
-- **ref_table** ([[SqlName]]): Table to reference
-- **ref_columns**  (list of [[SqlName]]s): Columns in referenced table (order must match the one in *columns*)
-- on_delete ([[String]]): Action when entry in foreign table is deleted
-- on_update ([[String]]): Action when entry in foreign table is update

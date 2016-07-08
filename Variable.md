@@ -1,4 +1,0 @@
-- **name** ([[SqlName]])
-- *description* ([[String]])
-- **type** ([[SqlType]])
-- *default* ([[String]])

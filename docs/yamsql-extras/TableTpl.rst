@@ -1,3 +1,8 @@
+.. _TableTemplate:
+
+Table Template
+==============
+
 - **template**    ([[SqlName]])
 - **description** ([[String]])
 - *foreign_keys* (list of [[ForeignKey]]s)

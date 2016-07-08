@@ -1,4 +1,5 @@
-# YamSql
+YamSql
+======
 
 Documentation of the **YamSql** language. It defines SQL database structures using a language based on Yaml (http://en.wikipedia.org/wiki/YAML). A command line interpreter called HamSql ist available (https://github.com/qua-bla/hamsql).
 
