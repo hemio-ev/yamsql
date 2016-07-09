@@ -3,7 +3,7 @@
 Schema
 ======
 
-A database can contain several *schemas* where each schema can contain objects like tables and functions potentially with identical names without conflicting. Thus, schemas schare similarities with the concept of namespaces.
+A database can contain several *schemas* where each schema can contain objects like tables and functions potentially with identical names without conflicting. Thus, schemas share similarities with the concept of namespaces.
 
 YamSql schema definitions consist of a folder which shares it's name with the schema. The folder must contain a ``schema.yml`` file.
 
