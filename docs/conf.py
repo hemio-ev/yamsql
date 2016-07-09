@@ -37,9 +37,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'sphinx_rtd_theme'
 
 rst_prolog = """
-Prolog
-
-.. |RSTcontent| replace:: *RST* is recommended here.
+.. |RSTcontent| replace:: It is recommended to use *reStructuredText* for adding markup to this fields content.
 """
 
 # Add any paths that contain custom static files (such as style sheets) here,
