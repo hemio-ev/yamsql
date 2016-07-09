@@ -1,0 +1,11 @@
+@import url("theme.css");
+
+.p-Indicator {
+    color: #d14;
+}
+
+.highlight-yaml .no, .highlight-yaml .s {
+    color: #099;
+    font-family: italic;
+}
+

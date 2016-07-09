@@ -1,8 +1,12 @@
 YamSql
 ======
 
-Documentation of the **YamSql** language. It defines SQL database structures using a language based on Yaml (http://en.wikipedia.org/wiki/YAML). A command line interpreter called HamSql ist available (https://github.com/qua-bla/hamsql).
+YamSql is a language to describe SQL schemas (i.e. database structures) based on `YAML <https://en.wikipedia.org/wiki/YAML>`_.
 
-The documentation can be found in the wikie (https://github.com/qua-bla/yamsql/wiki) of this repository.
+This project contains the joined documentation and defitinition of YamSql available via `yamsql.readthedocs.io <http://yamsql.readthedocs.io>`_.
 
-You can clone this wiki using `git clone git@github.com:qua-bla/yamsql.wiki`. At least if I gave you the access rights.
+Implementation
+--------------
+
+The reference implementation of YamSql is `HamSql <https://git.hemio.de/hemio/hamsql>`_. It currently supports deployment on PostgreSQL servers and generating documentations of the SQL schemas.
+
