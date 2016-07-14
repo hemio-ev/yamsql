@@ -1,4 +1,4 @@
-.. _TableTemplate:
+.. _TableTpl:
 
 Table Template
 ==============

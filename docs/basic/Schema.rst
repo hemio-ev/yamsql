@@ -36,3 +36,4 @@ External Resources
 
 - `PostgreSQL Schemas <https://www.postgresql.org/docs/current/static/ddl-schemas.html>`_
 - `PostgreSQL's CREATE SCHEMA statement <https://www.postgresql.org/docs/current/static/sql-createschema.html>`_
+
