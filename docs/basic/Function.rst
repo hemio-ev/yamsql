@@ -32,13 +32,11 @@ priv_execute :ref:`List` [:ref:`SqlName`]
 
 security_definer :ref:`Bool`
  If true, the function is executed with the privileges of the owner! Owner has to be given, if this is true
- 
- .. todo:: (not implemented yet!)
 
 owner :ref:`SqlName`
  owner of the function
 
-language (:ref:`String`):
+language :ref:`String`:
  language in which the body is written.
 
 variables :ref:`List` [:ref:`Variable`]
@@ -46,6 +44,37 @@ variables :ref:`List` [:ref:`Variable`]
  
 body :ref:`String`
  The code of the function (body)
+
+.. _Parameter:
+
+Parameter
+---------
+
+*name* :ref:`SqlName`
+ Name
+
+*type* :ref:`SqlType`
+ Type
+
+description :ref:`String`
+ Description
+
+.. _Variable:
+
+Variable
+--------
+
+*name* :ref:`SqlName`
+ Name
+
+*type* :ref:`SqlType`
+ Type
+
+description :ref:`String`
+ Description
+
+default :ref:`String`
+ Default
 
 Examples
 --------
