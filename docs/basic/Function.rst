@@ -36,12 +36,18 @@ security_definer :ref:`Bool`
 owner :ref:`SqlName`
  owner of the function
 
+.. _Function-language:
+
 language :ref:`String`:
  language in which the body is written.
 
+.. _Function-variables:
+
 variables :ref:`List` [:ref:`Variable`]
  Variables
- 
+
+.. _Function-body:
+
 body :ref:`String`
  The code of the function (body)
 
