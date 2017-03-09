@@ -116,3 +116,10 @@ Bool
 
 Bools are Yaml boolean values. Values can be ``true`` or ``false`` 
 
+.. _Integer:
+
+Integer
+-------
+
+YAML Integers
+
